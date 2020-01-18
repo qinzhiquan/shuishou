@@ -14,6 +14,6 @@ app.use(bodyParser.json());//post数据解析为json格式
 
 app.use(router);//挂载router
 
-app.listen(8081,()=>{
+app.listen(5050,()=>{
   console.log('app running at 8081');
 });
