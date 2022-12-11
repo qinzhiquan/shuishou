@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-saver": "^2.0.2",
     "less": "^2.7.3",
     "less-loader": "^5.0.0",
